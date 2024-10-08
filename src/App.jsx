@@ -13,7 +13,7 @@ function App() {
             <i className="text-[#7651dc]">quicker</i>
           </h2>
           <img
-            src="../src/images/card-1-illustration-create-post.webp"
+            src="../public/images/card-1-illustration-create-post.webp"
             alt=""
             className="w-[120px]"
           />
@@ -30,7 +30,7 @@ function App() {
           </div>
           <div>
             <img
-              src="../src/images/card-purple-illustration-five-stars.webp"
+              src="../public/images/card-purple-illustration-five-stars.webp"
               alt=""
               className="pt-[16px] w-[135px] "
             />
@@ -48,7 +48,7 @@ function App() {
           </h3>
           <div className="w-72 absolute left-[112px] top-[75px]">
             <img
-              src="../src/images/card-lavender-illustration-schedule-posts.webp"
+              src="../public/images/card-lavender-illustration-schedule-posts.webp"
               alt=""
               className=""
             />
@@ -65,7 +65,7 @@ function App() {
         <div className="rounded-md bg-[#ffffff] relative overflow-hidden">
           <div className="absolute left-11 top-3">
             <img
-              src="../src/images/card-white-illustration-multiple-platforms.webp"
+              src="../public/images/card-white-illustration-multiple-platforms.webp"
               alt=""
               className="rounded-full"
             />
@@ -80,7 +80,7 @@ function App() {
             Maintain a <br /> consistent <br /> posting <br /> schedule.
             <div className="absolute left-4 top-[130px] w-48">
               <img
-                src="../src/images/card-yellow-2-illustration-consistent-schedule.webp"
+                src="../public/images/card-yellow-2-illustration-consistent-schedule.webp"
                 alt=""
               />
             </div>
@@ -93,7 +93,7 @@ function App() {
           </h2>
           <div className="w-40">
             <img
-              src="../src/images/card-2-illustration-ai-content.webp"
+              src="../public/images/card-2-illustration-ai-content.webp"
               alt=""
               className="pt-[32px] pb-[10px]"
             />
@@ -106,7 +106,7 @@ function App() {
           </h2>
           <p className="text-xs pt-[8px]">faster audience growth</p>
           <img
-            src="../src/images/card-white-2-illustration-audience-growth.webp"
+            src="../public/images/card-white-2-illustration-audience-growth.webp"
             alt=""
             className="w-36 pt-[16px]"
           />
@@ -115,7 +115,7 @@ function App() {
         <div className="flex bg-[#7651dc] col-span-2">
           <div className="w-52">
             <img
-              src="../src/images/card-purple-2-illustration-grow-followers.webp"
+              src="../public/images/card-purple-2-illustration-grow-followers.webp"
               alt=""
               className="pl-[10px] pt-[10px]"
             />
