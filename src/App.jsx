@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div className="grid grid-cols-4 gap-4">
+      <div className="font-custom grid grid-cols-4 gap-4">
         {/* card-skin*/}
         <div className="rounded-md pl-6 flex flex-col text-left bg-[#faeee2] row-span-2">
           <h2 className="leading-6 pt-[40px] font-bold text-2xl pb-[10px]">
