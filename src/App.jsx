@@ -69,7 +69,7 @@ function App() {
           <div className="absolute left-11 top-3">
             <img
               // src="./public/card-white-illustration-multiple-platforms.webp "
-              src="../public/assets/card-white-illustration-multiple-platforms.webp"
+              src="/assets/card-white-illustration-multiple-platforms.webp"
               alt=""
               className="rounded-full"
             />
@@ -85,7 +85,7 @@ function App() {
             <div className="absolute left-4 top-[130px] w-48">
               <img
                 // src="./public/card-yellow-2-illustration-consistent-schedule.webp"
-                src="../public/assets/card-yellow-2-illustration-consistent-schedule.webp"
+                src="/assets/card-yellow-2-illustration-consistent-schedule.webp"
                 alt=""
               />
             </div>
@@ -99,7 +99,7 @@ function App() {
           <div className="w-40">
             <img
               // src="./public/card-2-illustration-ai-content.webp"
-              src="../public/assets/card-2-illustration-ai-content.webp"
+              src="/assets/card-2-illustration-ai-content.webp"
               alt=""
               className="pt-[32px] pb-[10px]"
             />
@@ -113,7 +113,7 @@ function App() {
           <p className="text-xs pt-[8px]">faster audience growth</p>
           <img
             // src="./public/card-white-2-illustration-audience-growth.webp"
-            src="../public/assets/card-white-2-illustration-audience-growth.webp"
+            src="/assets/card-white-2-illustration-audience-growth.webp"
             alt=""
             className="w-36 pt-[16px]"
           />
@@ -124,7 +124,7 @@ function App() {
           <div className="w-52">
             <img
               // src="./public/card-purple-2-illustration-grow-followers.webp"
-              src="../public/assets/card-purple-2-illustration-grow-followers.webp"
+              src="/assets/card-purple-2-illustration-grow-followers.webp"
               alt=""
               className="pl-[10px] pt-[10px]"
             />
