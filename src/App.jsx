@@ -6,14 +6,15 @@ function App() {
       <div className="font-custom grid grid-cols-4 gap-4">
         {/* card-skin*/}
         <div className="rounded-md pl-6 flex flex-col text-left bg-[#faeee2] row-span-2">
-          <h2 className="leading-6 pt-[40px] font-bold text-2xl pb-[10px]">
+          <h2 className="dark:text-black leading-6 pt-[40px] font-bold text-2xl pb-[10px]">
             Create and <br />
             schedule <br />
             content <br />
             <i className="text-[#7651dc]">quicker</i>
           </h2>
           <img
-            src="./public/card-1-illustration-create-post.webp"
+            // src="./public/card-1-illustration-create-post.webp"
+            src="/assets/card-1-illustration-create-post.webp"
             alt=""
             className="w-[120px]"
           />
@@ -30,7 +31,8 @@ function App() {
           </div>
           <div>
             <img
-              src="./public/card-purple-illustration-five-stars.webp"
+              // src="./public/card-purple-illustration-five-stars.webp"
+              src="/assets/card-purple-illustration-five-stars.webp"
               alt=""
               className="pt-[16px] w-[135px] "
             />
@@ -43,12 +45,13 @@ function App() {
         </div>
         {/* card- Schedule */}
         <div className="rounded-md flex flex-col justify-between pl-[15px] bg-[#dcd1fc] relative overflow-hidden row-span-2">
-          <h3 className="leading-6 pt-[23px] font-bold text-2xl text-left">
+          <h3 className="darkleading-6 pt-[23px] font-bold text-2xl text-left">
             Schedule to social media.
           </h3>
           <div className="w-72 absolute left-[112px] top-[75px]">
             <img
-              src="./public/card-lavender-illustration-schedule-posts.webp"
+              // src="./public/card-lavender-illustration-schedule-posts.webp"
+              src="/assets/card-lavender-illustration-schedule-posts.webp"
               alt=""
               className=""
             />
@@ -65,7 +68,8 @@ function App() {
         <div className="rounded-md bg-[#ffffff] relative overflow-hidden">
           <div className="absolute left-11 top-3">
             <img
-              src="./public/card-white-illustration-multiple-platforms.webp "
+              // src="./public/card-white-illustration-multiple-platforms.webp "
+              src="../public/assets/card-white-illustration-multiple-platforms.webp"
               alt=""
               className="rounded-full"
             />
@@ -80,7 +84,8 @@ function App() {
             Maintain a <br /> consistent <br /> posting <br /> schedule.
             <div className="absolute left-4 top-[130px] w-48">
               <img
-                src="./public/card-yellow-2-illustration-consistent-schedule.webp"
+                // src="./public/card-yellow-2-illustration-consistent-schedule.webp"
+                src="../public/assets/card-yellow-2-illustration-consistent-schedule.webp"
                 alt=""
               />
             </div>
@@ -93,7 +98,8 @@ function App() {
           </h2>
           <div className="w-40">
             <img
-              src="./public/card-2-illustration-ai-content.webp"
+              // src="./public/card-2-illustration-ai-content.webp"
+              src="../public/assets/card-2-illustration-ai-content.webp"
               alt=""
               className="pt-[32px] pb-[10px]"
             />
@@ -106,7 +112,8 @@ function App() {
           </h2>
           <p className="text-xs pt-[8px]">faster audience growth</p>
           <img
-            src="./public/card-white-2-illustration-audience-growth.webp"
+            // src="./public/card-white-2-illustration-audience-growth.webp"
+            src="../public/assets/card-white-2-illustration-audience-growth.webp"
             alt=""
             className="w-36 pt-[16px]"
           />
@@ -116,7 +123,8 @@ function App() {
         <div className="flex bg-[#7651dc] col-span-2">
           <div className="w-52">
             <img
-              src="./public/card-purple-2-illustration-grow-followers.webp"
+              // src="./public/card-purple-2-illustration-grow-followers.webp"
+              src="../public/assets/card-purple-2-illustration-grow-followers.webp"
               alt=""
               className="pl-[10px] pt-[10px]"
             />
